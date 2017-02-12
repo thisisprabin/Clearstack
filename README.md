@@ -1,11 +1,11 @@
 # Clearstack
 
-<img src="snapshot/1.jpg" height="380" width="800" />
+<img src="Snapshot/1.jpg" height="380" width="800" />
 <br>
-<img src="snapshot/2.jpg" height="380" width="800" />
+<img src="Snapshot/2.jpg" height="380" width="800" />
 <br>
-<img src="snapshot/3.jpg" height="380" width="800" />
+<img src="Snapshot/3.jpg" height="380" width="800" />
 <br>
-<img src="snapshot/4.jpg" height="380" width="800" />
+<img src="Snapshot/4.jpg" height="380" width="800" />
 <br>
-<img src="snapshot/5.jpg" height="380" width="800" />
+<img src="Snapshot/5.jpg" height="380" width="800" />
